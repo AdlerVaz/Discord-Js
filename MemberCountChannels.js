@@ -1,5 +1,5 @@
 let countChannel= {
-    total: "802275726249820202",
+    total: "802275726249820202",//replace this with the channel ids from ur guild according
     members:"802275780658593793",
     bots:"802275875093217300",
     serverID:"801873765872173087",
