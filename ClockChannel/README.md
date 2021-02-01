@@ -4,6 +4,6 @@
   </a>
 </div>
 
-### If you are you need support on the codes feel free to join the support server!
+### If you support on the codes feel free to join the support server!
  
 So I guess I'll try to post at least one code a day related to Discord Bot. So follow up and hope you guys like it ..
